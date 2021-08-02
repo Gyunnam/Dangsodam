@@ -25,7 +25,7 @@
 <hr>
 https://github.com/Gyunnam/Dangsodam
 
-### [Doname]
+### [도메인]
 
 <hr>
 https://gyunnam.github.io/Dangsodam/
